@@ -33,5 +33,9 @@ a {
 	outline: 4px solid blueviolet;
     outline-offset: 4px;
 } */
-
+body {
+	font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+	font-weight: 400;
+}
 
